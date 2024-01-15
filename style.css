@@ -1,0 +1,21 @@
+body{
+    display: flex;
+    align-content: center;
+    justify-content: center;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    margin: 50px;
+    background-color: #fff4e6;
+}
+canvas{
+    margin: 20px;
+    background-color: #4b3832;
+}
+.container{
+    width: 1500px;
+    height: 1100px;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+}
